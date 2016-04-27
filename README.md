@@ -2,7 +2,10 @@
 San Francisco Bike Share Analysis
 By: Shawn Kessler, Giles Ochs and Brian Schneider
 
-Important docs:
+Public Repo with Notebooks and other sources: </br>
+https://github.com/cheapcontact/w18finalproject </br>
 
-W18FinalProject.pdf is our official writeup.
+Important docs: </br>
+
+W18FinalProject.pdf is our official writeup. </br>
 Lab Notebook.ipynb tells the story of our learnings and mishaps along the way.
